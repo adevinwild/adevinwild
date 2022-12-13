@@ -4,14 +4,23 @@
 
 <p align="center"> <a href="https://twitter.com/adelit_" target="blank"><img src="https://img.shields.io/twitter/follow/adelit_?logo=twitter&style=for-the-badge" alt="adelit_" /></a> </p>
 
+<h3  align="center">
+    <b>
+      Latest articles 📰
+    </b>
+</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <hr />
 <br/>
 
-<h2  align="center">
+<h3  align="center">
     <b>
       Let's connect ✨
     </b>
-</h2>
+</h3>
 
 <br/>
 
@@ -26,11 +35,11 @@
 <hr />
 <br/>
 
-<h2  align="center">
+<h3  align="center">
 <b>
 Stats 🧪
 </b>
-</h2>
+</h3>
 
 <p  align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad-elit&show_icons=true&locale=en&layout=compact" alt="ad-elit" width="320px" />
@@ -41,13 +50,3 @@ Stats 🧪
 
 <br/>
 
-<h2  align="left">
-    <b>
-      Latest articles 📰
-    </b>
-</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
