@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Adil</h1>
 <h3 align="center">A developer with a passion for the creative side of the business</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ad-elit&label=Profile%20views&color=0e75b6&style=flat" alt="ad-elit" /> </p>
-
+<br />
 
 
-<p align="left"> <a href="https://twitter.com/adelit_" target="blank"><img src="https://img.shields.io/twitter/follow/adelit_?logo=twitter&style=for-the-badge" alt="adelit_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/adelit_" target="blank"><img src="https://img.shields.io/twitter/follow/adelit_?logo=twitter&style=for-the-badge" alt="adelit_" /></a> </p>
 
 
 <br/>
