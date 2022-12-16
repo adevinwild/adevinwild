@@ -2,7 +2,7 @@
 <h3 align="center">A developer with a passion for the creative side of the business</h3>
 <br />
 
-<p align="center"> <a href="https://twitter.com/adelit_" target="blank"><img src="https://img.shields.io/twitter/follow/adelit_?logo=twitter&style=for-the-badge" alt="adelit_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/adevinwild" target="blank"><img src="https://img.shields.io/twitter/follow/adelit_?logo=twitter&style=for-the-badge" alt="adelit_" /></a> </p>
 
 <h3  align="center">
     <b>
