@@ -12,10 +12,10 @@
 <br/>
 
 <p align="center">
-    <a href="https://twitter.com/adevinwild" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adelit_" height="30" width="40" /></a>
+    <a href="https://twitter.com/adevinwild" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adevinwild" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/15568297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15568297" height="30" width="40" /></a>
-    <a href="https://dev.to/adevinwild" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="adelit" height="30" width="40" /></a>
-    <a href="https://medium.com/@adevinwild" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adelit" height="30" width="40" /></a>
+    <a href="https://dev.to/adevinwild" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="adevinwild" height="30" width="40" /></a>
+    <a href="https://medium.com/@adevinwild" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adevinwild" height="30" width="40" /></a>
 </p>
 <hr />
 <br/>
