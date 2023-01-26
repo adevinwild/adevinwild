@@ -27,7 +27,6 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Better conditional rendering](https://medium.com/@adevinwild/better-conditional-rendering-87dd055fa68f?source=rss-2fdeced75485------2)
 - [A native package that you should use on React](https://towardsdev.com/a-native-package-that-you-should-use-on-react-7181f3c31040?source=rss-2fdeced75485------2)
 - [5 open source packages to gain time for React.js](https://towardsdev.com/5-open-source-packages-to-gain-time-for-react-js-2a3241f90a74?source=rss-2fdeced75485------2)
