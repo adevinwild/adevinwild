@@ -1,5 +1,5 @@
-![](./images/banner-dark@1x.png#gh-dark-mode-only|width=100%)
-![](./images/banner@1x.png#gh-light-mode-only|width=100%)
+![](./images/banner-dark@1x.png#gh-dark-mode-only)
+![](./images/banner@1x.png#gh-light-mode-only)
 
 <br />
 
