@@ -1,11 +1,9 @@
-<p align="center">
-<img src="./images/banner@1x.png" width="100%" />
-</p>
+![](./images/banner-dark@1x.png#gh-dark-mode-only|width=100%)
+![](./images/banner@1x.png#gh-light-mode-only|width=100%)
 
 <br />
 
 <h3 align="center"><b>Building Web Solutions w/ Passion and Creativity</b></h3>
-
 
 <blockquote>
 <p> 
@@ -49,7 +47,6 @@ You can see examples of his work, including contributions to open source project
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
-
 
 - [Discover Responsively.app](https://ortros.hashnode.dev/discover-responsivelyapp)
 - [A product work environment](https://ortros.hashnode.dev/a-productive-work-environment)
