@@ -4,8 +4,25 @@
 
 <br />
 
-<h3 align="center">A developer with a passion for the creative side of the business</h3>
+<h3 align="center"><b>Building Web Solutions w/ Passion and Creativity</b></h3>
 
+
+<blockquote>
+<p> 
+Adil is a full-stack developer who <b>specializes in web development</b> with <em>JavaScript</em>, <em>React.js</em>, <em>TypeScript</em>, and <em>Node.JS</em>. <br />
+He has over <b>two years of industry experience</b> and has worked on a variety of projects, including <b>building solutions around sports and medical expertise</b> and constructing <b>web applications at a development firm</b>.
+</p>
+
+<p>
+He has a passion for <b>contributing to open source projects</b> and is particularly <b>interested in UI design</b>. <br/> 
+He enjoys building useful tools for other developers and is <b>always eager to learn new technologies</b>.
+</p>
+
+<p>
+His GitHub profile is a nice place to start if <b>you're seeking for a talented fullstack engineer</b> with a strong concentration on web development.
+You can see examples of his work, including contributions to open source projects.
+</p>
+</blockquote>
 <p align="center"> <a href="https://twitter.com/adevinwild" target="blank"><img src="https://img.shields.io/twitter/follow/adevinwild?logo=twitter&style=for-the-badge" alt="adevinwild" /></a> </p>
 <h3  align="center">
     <b>
@@ -33,6 +50,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+
+- [Discover Responsively.app](https://ortros.hashnode.dev/discover-responsivelyapp)
+- [A product work environment](https://ortros.hashnode.dev/a-productive-work-environment)
 - [Better conditional rendering](https://medium.com/@adevinwild/better-conditional-rendering-87dd055fa68f?source=rss-2fdeced75485------2)
 - [A native package that you should use on React](https://towardsdev.com/a-native-package-that-you-should-use-on-react-7181f3c31040?source=rss-2fdeced75485------2)
 - [5 open source packages to gain time for React.js](https://towardsdev.com/5-open-source-packages-to-gain-time-for-react-js-2a3241f90a74?source=rss-2fdeced75485------2)
