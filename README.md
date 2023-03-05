@@ -47,9 +47,6 @@ You can see examples of his work, including contributions to open source project
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Discover Responsively.app](https://ortros.hashnode.dev/discover-responsivelyapp)
-- [A product work environment](https://ortros.hashnode.dev/a-productive-work-environment)
 - [Better conditional rendering](https://medium.com/@adevinwild/better-conditional-rendering-87dd055fa68f?source=rss-2fdeced75485------2)
 - [A native package that you should use on React](https://towardsdev.com/a-native-package-that-you-should-use-on-react-7181f3c31040?source=rss-2fdeced75485------2)
 - [5 open source packages to gain time for React.js](https://towardsdev.com/5-open-source-packages-to-gain-time-for-react-js-2a3241f90a74?source=rss-2fdeced75485------2)
