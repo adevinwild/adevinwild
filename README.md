@@ -3,27 +3,31 @@
 
 <br />
 
-<h3 align="center"><b>Building Web Solutions w/ Passion and Creativity</b></h3>
+<h3 align="left"><b>Building Web Solutions w/ Passion and Creativity</b></h3>
 
 <blockquote>
 <p> 
-Adil is a full-stack web developer proficient in <em>JavaScript</em>, <em>React.js</em>, <em>TypeScript</em>, and <em>Node.JS</em> with over <b>two years' experience</b>. He has built CRMs, E-commerce platforms, marketplaces, mobile apps, and developer tools.
+Adil is a full-stack web developer proficient in <em>JavaScript</em>, <em>React.js</em>, <em>TypeScript</em>, and <em>Node.JS</em> with over <b>two years experience</b>. He has built CRMs, E-commerce platforms, marketplaces, mobile apps, SDKs and developer tools.
 </p>
 
 <p>
 He has a passion for <b>contributing to open source projects</b> and is particularly <b>interested in UI design</b> and <b>performance</b>·.
 </p>
 
+<p>
+    You can find out more about his experiences <a href="https://read.cv/adevinwild">here</a> 
+</p>
+
 </blockquote>
 
-<h3  align="center">
+<h3  align="left">
     <b>
-      Let's connect ✨
+      Let's connect
     </b>
 </h3>
 
 
-<p align="center">
+<p align="left">
     <a href="https://x.com/adevinwild" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="adevinwild twitter" height="24" width="24" /></a>
 </p>
 
