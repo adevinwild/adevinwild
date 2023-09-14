@@ -7,15 +7,18 @@
 
 <blockquote>
 <p> 
-Adil is a full-stack web developer proficient in <em>JavaScript</em>, <em>React.js</em>, <em>TypeScript</em>, and <em>Node.JS</em> with over <b>two years experience</b>. He has built CRMs, E-commerce platforms, marketplaces, mobile apps, SDKs and developer tools.
+    I'm a skilled full-stack web developer with just over two years of experience in technologies like <em>JavaScript</em>, <em>React.js</em>, <em>TypeScript</em>, and <em>Node.JS</em>. 
+</p>
+<p>
+    Over these past couple of years, I've had the chance to work on a bunch of different projects, including <b>CRM</b>, <b>e-commerce websites</b>, <b>mobile apps</b>, <b>SDKs</b>, and various <b>developer tools</b>.
+</p>
+<p>
+    What really gets me excited is my involvement in <b>open-source projects</b> and my passion for creating smooth and visually appealing user interfaces that provide a great user experience.
 </p>
 
-<p>
-He has a passion for <b>contributing to open source projects</b> and is particularly <b>interested in UI design</b> and <b>performance</b>·.
-</p>
 
 <p>
-    You can find out more about his experiences <a href="https://read.cv/adevinwild">here</a> 
+    You can find out more about my experiences <a href="https://read.cv/adevinwild">here</a> 
 </p>
 
 </blockquote>
