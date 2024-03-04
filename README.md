@@ -1,5 +1,5 @@
 > [!TIP]
-> I'm currently looking for a new opportunity, checkout my experiences "<a href="https://read.cv/adevinwild">here</a>" 
+> I'm currently looking for new opportunities, checkout my experiences "<a href="https://read.cv/adevinwild">here</a>" and book a quick video call with me "<a href="https://cal.com/adevinwild/career">there</a>" 
 
 <h1 align="left"><b>Building Web Solutions w/ Passion and Creativity</b></h3>
 
