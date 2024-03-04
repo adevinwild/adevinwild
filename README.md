@@ -7,13 +7,15 @@
 
 <blockquote>
 <p> 
-    I'm a skilled full-stack web developer with just over two years of experience in technologies like <em>JavaScript</em>, <em>React.js</em>, <em>TypeScript</em>, and <em>Node.JS</em>. 
+    I'm a skilled front-end developer with over three years of experience in technologies like <b>JavaScript/TypeScript</b>, <b>React.js</b>, and <b>Node.JS</b>.
 </p>
 <p>
-    Over these past couple of years, I've had the chance to work on a bunch of different projects, including <b>CRM</b>, <b>e-commerce websites</b>, <b>mobile apps</b>, <b>SDKs</b>, and various <b>developer tools</b>.
-</p>
+
+Over these past couple of years, I've had the chance to work on a bunch of different projects, including <b>CRM, e-commerce websites, mobile apps, SDKs, NFT sales sites</b>
+
+
 <p>
-    What really gets me excited is my involvement in <b>open-source projects</b> and my passion for creating smooth and visually appealing user interfaces that provide a great user experience.
+What really gets me excited is my <b>involvement in projects</b> and my passion for creating <b>smooth and visually appealing user interfaces</b> that provide a great user experience.</p>
 </p>
 
 
