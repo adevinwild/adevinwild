@@ -1,7 +1,5 @@
-![This image is adapted for the dark mode only. We can see a striped background and in the center the name "a dev in wild"](./images/banner@1x.png#gh-dark-mode-only)
-![This image is adapted for the light mode only. We can see a striped background and in the center the name "a dev in wild"](./images/banner-dark@1x.png#gh-light-mode-only)
-
-<br />
+> [!TIP]
+> I'm currently looking for a new opportunity, checkout my experiences "<a href="https://read.cv/adevinwild">here</a>" 
 
 <h1 align="left"><b>Building Web Solutions w/ Passion and Creativity</b></h3>
 
