@@ -34,11 +34,11 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Customize the Admin UI Plugin with Medusa.js 1.8.X and Up: A Step-by-Step Guide &lpar;DEPRECATED&rpar;](https://medium.com/@adevinwild/customize-the-admin-ui-plugin-with-medusa-js-1-8-x-and-up-a-step-by-step-guide-df12205b2ef7?source=rss-2fdeced75485------2)
-- [Extend validators with Medusa.js 1.8.x and up](https://medium.com/@adevinwild/extend-validators-with-medusa-js-1-8-x-and-up-3e730040fd53?source=rss-2fdeced75485------2)
-- [Better conditional rendering](https://medium.com/@adevinwild/better-conditional-rendering-87dd055fa68f?source=rss-2fdeced75485------2)
-- [A native package that you should use on React](https://towardsdev.com/a-native-package-that-you-should-use-on-react-7181f3c31040?source=rss-2fdeced75485------2)
-- [5 open source packages to gain time for React.js](https://towardsdev.com/5-open-source-packages-to-gain-time-for-react-js-2a3241f90a74?source=rss-2fdeced75485------2)
+- [Medusa Marketplace #5 | Stripe Connect](https://blog.perseides.org/medusa-marketplace-5-stripe-connect)
+- [Medusa Marketplace #4 | Payments Splitting](https://blog.perseides.org/medusa-marketplace-4-payments-splitting)
+- [Medusa Marketplace #3 | Orders Splitting](https://blog.perseides.org/medusa-marketplace-3-orders-splitting)
+- [Medusa Marketplace #2.4 | Extending Shipping services](https://blog.perseides.org/medusa-marketplace-24-extending-shipping-services)
+- [Medusa Marketplace #2.3 | Extending Shipping Profiles/Options](https://blog.perseides.org/medusa-marketplace-23-extending-shipping-profilesoptions)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
