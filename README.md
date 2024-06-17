@@ -1,6 +1,3 @@
-> [!TIP]
-> I'm currently looking for new opportunities, checkout my experiences "<a href="https://imadil.dev">here</a>" and book a quick video call with me "<a href="https://cal.com/adevinwild/career">there</a>" 
-
 <h1 align="left"><b>Passionate, creative and solutions-oriented developer</b></h3>
 
 <blockquote>
