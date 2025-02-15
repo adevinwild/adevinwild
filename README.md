@@ -15,17 +15,6 @@
 
 <h2  align="left">
     <b>
-      Let's connect
-    </b>
-</h3>
-
-
-<p align="left">
-    <a href="https://x.com/adevinwild" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="This is the logo of x.com, a social media that replaced Twitter." height="24" width="24" /></a>
-</p>
-
-<h2  align="left">
-    <b>
       Latest blog posts 📰
     </b>
 </h2>
