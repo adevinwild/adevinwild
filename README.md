@@ -2,7 +2,7 @@
 
 <blockquote>
     <p> 
-         Fullstack engineer specializing in <b>Medusa.js</b> and ecommerce development since 2022. I've successfully shipped various projects including marketplaces, B2B and B2C solutions, as well as Medusa plugins. I am also a moderator and a major community contributor on ["the official Medusa Discord channel"](https://discord.gg/medusajs).
+         Fullstack engineer specializing in <b>Medusa.js</b> and ecommerce development since 2022. I've successfully shipped various projects including marketplaces, B2B and B2C solutions, as well as Medusa plugins. I am also a moderator and a major community contributor on <a href="https://discord.gg/medusajs">"the official Medusa Discord channel"</a>.
     </p>
     <p>
         In my spare time, I enjoy contributing to open source projects
