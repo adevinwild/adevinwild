@@ -25,11 +25,11 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
--   [Medusa Marketplace #5 | Stripe Connect](https://blog.perseides.org/medusa-marketplace-5-stripe-connect)
--   [Medusa Marketplace #4 | Payments Splitting](https://blog.perseides.org/medusa-marketplace-4-payments-splitting)
--   [Medusa Marketplace #3 | Orders Splitting](https://blog.perseides.org/medusa-marketplace-3-orders-splitting)
--   [Medusa Marketplace #2.4 | Extending Shipping services](https://blog.perseides.org/medusa-marketplace-24-extending-shipping-services)
--   [Medusa Marketplace #2.3 | Extending Shipping Profiles/Options](https://blog.perseides.org/medusa-marketplace-23-extending-shipping-profilesoptions)
+- [Medusa Marketplace #5 | Stripe Connect](https://blog.perseides.org/medusa-marketplace-5-stripe-connect)
+- [Medusa Marketplace #4 | Payments Splitting](https://blog.perseides.org/medusa-marketplace-4-payments-splitting)
+- [Medusa Marketplace #3 | Orders Splitting](https://blog.perseides.org/medusa-marketplace-3-orders-splitting)
+- [Medusa Marketplace #2.4 | Extending Shipping services](https://blog.perseides.org/medusa-marketplace-24-extending-shipping-services)
+- [Medusa Marketplace #2.3 | Extending Shipping Profiles/Options](https://blog.perseides.org/medusa-marketplace-23-extending-shipping-profilesoptions)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
