@@ -5,9 +5,6 @@
          Fullstack engineer specializing in <b>Medusa.js</b> and ecommerce development since 2022. I've successfully shipped various projects including marketplaces, B2B and B2C solutions, as well as Medusa plugins. I am also a moderator and a major community contributor on <a href="https://discord.gg/medusajs">"the official Medusa Discord channel"</a>.
     </p>
     <p>
-        In my spare time, I enjoy contributing to open source projects
-    </p>
-    <p>
         Currently, I take on contracts during the weekends and my evenings, while working full-time as a fullstack engineer specialized in Medusa at <b>WebexpR</b>.
     </p>
     <p>
