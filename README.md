@@ -1,12 +1,9 @@
-<h1 align="left"><b>Building Tomorrow’s Ecommerce Solutions with Medusa.js</b></h1>
-<p> 
-     Fullstack engineer specializing in <b>Medusa.js</b> and ecommerce development since 2022. I've successfully shipped various projects including marketplaces, B2B and B2C solutions, as well as Medusa plugins. I am also a moderator and a major community contributor on <a href="https://discord.gg/medusajs">"the official Medusa Discord channel"</a>.
-</p>
-
-<p>
-    I'm also building <b><a href="https://github.com/perseidesjs">perseidesjs</a></b>, an open-source project created to share my knowledge with the community through guides, consulting sessions, and plugins.
-</p>
-
-<p>
-    You can find out more about my work "<a href="https://imadil.dev">here</a>".
+<p align="center">
+  <a href="https://perseidesjs.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/perseidesjs/.github/blob/9b20c4ac67ecb5c6ccc8026604f6e8763a8604fb/.github/dark_mode.png?raw=true" width="128" height="128">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/perseidesjs/.github/blob/9b20c4ac67ecb5c6ccc8026604f6e8763a8604fb/.github/light_mode.png?raw=true" width="128" height="128">
+    <img alt="Perseides logo" src="https://github.com/perseidesjs/.github/blob/9b20c4ac67ecb5c6ccc8026604f6e8763a8604fb/.github/light_mode.png?raw=true"width="128" height="128">
+    </picture>
+  </a>
 </p>
